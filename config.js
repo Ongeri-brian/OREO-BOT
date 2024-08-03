@@ -12,8 +12,8 @@ global.owner = [
 global.mods = []
 global.prems = []
 
-global.author = process.env.OWNER_NAME || 'Shizo The Techie'
-global.botname = process.env.BOT_NAME || 'OREO-BOT'
+global.author = process.env.OWNER_NAME || 'Brian ongeri'
+global.botname = process.env.BOT_NAME || 'Ongeri '
 global.oname = author
 global.bname = botname
 
